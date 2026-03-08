@@ -102,3 +102,7 @@ How to read this list. Each section (header) represent input data i.e. data you 
 
 - location:
   - https://labs.tib.eu/geoestimation/
+
+### Conflict / Geopolitical Monitoring
+
+- [Pharos AI](https://conflicts.app) - Real-time OSINT dashboard for conflict tracking with geospatial visualization, 30+ news feeds, and actor intelligence profiles.
